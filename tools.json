@@ -1,0 +1,128 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "chatbots",
+    "url": "https://chatgpt.com/",
+    "access": "free_plan",
+    "notes": "Free plan with limits; verify current limits."
+  },
+  {
+    "name": "Google Gemini",
+    "category": "chatbots",
+    "url": "https://gemini.google.com/",
+    "access": "free_plan",
+    "notes": "Free access with limits; verify availability by region."
+  },
+  {
+    "name": "Claude",
+    "category": "chatbots",
+    "url": "https://claude.ai/",
+    "access": "free_plan",
+    "notes": "Free plan with limits."
+  },
+  {
+    "name": "HuggingChat",
+    "category": "chatbots",
+    "url": "https://huggingface.co/chat/",
+    "access": "free",
+    "notes": "Access and model availability may vary."
+  },
+  {
+    "name": "ComfyUI",
+    "category": "image_generation",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "access": "open_source",
+    "notes": "Local hardware and model downloads required."
+  },
+  {
+    "name": "Stable Diffusion WebUI Forge",
+    "category": "image_generation",
+    "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+    "access": "open_source",
+    "notes": "Local hardware and compatible model licenses required."
+  },
+  {
+    "name": "Pika",
+    "category": "video_generation",
+    "url": "https://pika.art/",
+    "access": "free_credits",
+    "notes": "Check current credit limits and terms."
+  },
+  {
+    "name": "Runway",
+    "category": "video_generation",
+    "url": "https://runwayml.com/",
+    "access": "free_credits",
+    "notes": "Free tier/credits may be limited."
+  },
+  {
+    "name": "Continue",
+    "category": "coding",
+    "url": "https://github.com/continuedev/continue",
+    "access": "open_source",
+    "notes": "The extension is open source; model/API usage may cost money."
+  },
+  {
+    "name": "Aider",
+    "category": "coding",
+    "url": "https://github.com/Aider-AI/aider",
+    "access": "open_source",
+    "notes": "Open-source client; model/API usage may cost money."
+  },
+  {
+    "name": "Ollama",
+    "category": "local_ai",
+    "url": "https://ollama.com/",
+    "access": "free",
+    "notes": "Local runtime; hardware and model licenses apply."
+  },
+  {
+    "name": "Whisper",
+    "category": "voice_audio",
+    "url": "https://github.com/openai/whisper",
+    "access": "open_source",
+    "notes": "Local compute required."
+  },
+  {
+    "name": "whisper.cpp",
+    "category": "voice_audio",
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "access": "open_source",
+    "notes": "Local compute required."
+  },
+  {
+    "name": "Piper",
+    "category": "voice_audio",
+    "url": "https://github.com/rhasspy/piper",
+    "access": "open_source",
+    "notes": "Check individual voice/model licenses."
+  },
+  {
+    "name": "NotebookLM",
+    "category": "research",
+    "url": "https://notebooklm.google.com/",
+    "access": "free_plan",
+    "notes": "Free access with limits; verify regional availability."
+  },
+  {
+    "name": "Perplexity",
+    "category": "research",
+    "url": "https://www.perplexity.ai/",
+    "access": "free_plan",
+    "notes": "Free plan with limits."
+  },
+  {
+    "name": "Elicit",
+    "category": "research",
+    "url": "https://elicit.com/",
+    "access": "free_plan",
+    "notes": "Free features with limits."
+  },
+  {
+    "name": "n8n",
+    "category": "automation",
+    "url": "https://n8n.io/",
+    "access": "open_source",
+    "notes": "Self-hosted community edition; hosted plans may be paid."
+  }
+]
