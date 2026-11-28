@@ -4,3 +4,7 @@
 - [Perplexity](https://www.perplexity.ai/) — AI-powered search. Free plan with limits.
 - [Elicit](https://elicit.com/) — AI-assisted literature research. Free features with limits.
 - [n8n](https://n8n.io/) — workflow automation; self-hosted community edition available.
+
+| Tool | What it does | Free access |
+|---|---|---|
+| [Orkas](https://orkas.ai/) | Desktop workspace for drafting a source-linked research brief and checking its supporting material | Open source. Core app free after sign-in. Model use and optional services can incur charges. |

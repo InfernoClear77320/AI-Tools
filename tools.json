@@ -124,5 +124,12 @@
     "url": "https://n8n.io/",
     "access": "open_source",
     "notes": "Self-hosted community edition; hosted plans may be paid."
+  },
+  {
+    "name": "Orkas",
+    "category": "research",
+    "url": "https://orkas.ai/",
+    "access": "open_source",
+    "notes": "MIT-licensed macOS and Windows workspace. Core app free after sign-in. Model use and optional services can incur charges."
   }
 ]
